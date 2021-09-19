@@ -46,5 +46,5 @@ experience:
     description: Taught ecology.
 
 design:
-  columns: '1'
+  columns: '2'
 ---
